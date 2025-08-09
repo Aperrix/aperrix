@@ -8,4 +8,4 @@
 - Interested in contributing more to open source
 
 ## 📊 Metrics
-![Metrics](https://github.com/Aperrix/aperrix/blob/main/github-metrics.svg)
+![Metrics](/github-metrics.svg)
