@@ -26,7 +26,7 @@ jobs:
 
           # Options
           config_timezone: Europe/Paris
-          config_display: columns
+          config_display: large
           config_animations: yes
           notice_releases: no
           template: classic
