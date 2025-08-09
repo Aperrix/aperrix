@@ -6,3 +6,6 @@
 - Self-taught programmer who discovered programming at age 11 and fell in love with it !
 - Passionate about technology, gaming, AI, and finance
 - Interested in contributing more to open source
+
+## 📊 Metrics
+![Metrics](https://github.com/Aperrix/aperrix/blob/main/github-metrics.svg)
