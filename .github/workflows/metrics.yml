@@ -26,6 +26,9 @@ jobs:
 
           # Options
           config_timezone: Europe/Paris
+          config_display: columns
+          config_animations: yes
+          notice_releases: no
           template: classic
           base: header, activity, community, repositories, metadata
           plugin_lines: yes
@@ -36,4 +39,7 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_sections: time, languages, languages-graphs, editors, editors-graphs, os
           plugin_wakatime_days: 30
+          plugin_habits: yes
+          plugin_habits_from: 1000
+          plugin_habits_days: 30
           
