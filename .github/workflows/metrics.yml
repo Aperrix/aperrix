@@ -25,6 +25,9 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
 
           # Options
+          config_timezone: Europe/Paris
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Paris
+          plugin_lines: yes
+          plugin_languages: yes
+          plugin_wakatime: yes
